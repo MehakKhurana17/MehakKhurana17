@@ -6,7 +6,7 @@
 
 I am Mehak and I have a passion for exploring and analyzing data to gain insights and solve complex business problems. 
 
-### Skills: 
+## Skills: 
     Python 
     Excel 
     SQL
