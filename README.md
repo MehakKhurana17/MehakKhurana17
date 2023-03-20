@@ -1,5 +1,7 @@
-# Mehak Khurana
-### Data Science Trainee 
+### Hi there 👋, Mehak Khurana
+#### Data Science Trainee 
+![Data Science Trainee ](https://liyasthomas.github.io/banner/)
+
 I am Mehak and I have a passion for exploring and analyzing data to gain insights and solve complex business problems. 
 
 Skills: Python / Excel / SQL / Statistics / Tableau / Power BI / Machine Learning
@@ -11,3 +13,10 @@ Skills: Python / Excel / SQL / Statistics / Tableau / Power BI / Machine Learnin
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MehakKhurana17)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MehakKhurana17)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/MehakKhurana17)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/MehakKhurana17)  
