@@ -4,7 +4,7 @@
 ![Data Science Trainee ](https://github.com/MehakKhurana17/MehakKhurana17/blob/main/Image%20banner.jpg)
 
 
-I am Mehak and I have a passion for exploring and analyzing data to gain insights and solve complex business problems. 
+I am Mehak and I have a passion for exploring and analyzing data to identify patterns and trends that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive models. I am constantly seeking to learn and grow in the field of data science and am committed to staying up-to-date with the latest trends and technologies.
 
 ## Skills: 
     Python 
