@@ -1,7 +1,7 @@
 # Mehak Khurana
 ## Data Science Trainee 
 
-![Data Science Trainee ](https://github.com/MehakKhurana17/MehakKhurana17/blob/main/Banner.jpg)
+![Data Science Trainee ](https://github.com/MehakKhurana17/MehakKhurana17/blob/main/Image%20banner.jpg)
 
 
 I am Mehak and I have a passion for exploring and analyzing data to gain insights and solve complex business problems. 
