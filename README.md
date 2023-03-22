@@ -1,5 +1,5 @@
 # Mehak Khurana
-## Data Scientist Trainee 
+### Data Scientist Trainee 
 
 ![Data Scientist Trainee ](https://github.com/MehakKhurana17/MehakKhurana17/blob/main/Image%20banner.jpg)
 
@@ -11,7 +11,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 ## About Me:
 
 - 🌱 I’m currently learning and exploring various Machine learning algorithms and trying to build some reliable models.
-- 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects
+- 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
 
 
 ## 💻 Skills: 
