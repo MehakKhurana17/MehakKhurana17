@@ -8,7 +8,7 @@
 
 I am Mehak and I have a passion for exploring and analyzing data to identify patterns and trends that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive models. I am constantly seeking to learn and grow in the field of data science and I am committed to stay up-to-date with the latest trends and technologies.
 
-## About Me:
+## 🔗 About Me:
 
 - 🌱 I’m currently learning and exploring various Machine learning algorithms and trying to build some reliable models.
 - 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
