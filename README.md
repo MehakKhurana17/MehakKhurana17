@@ -14,7 +14,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 - 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
 
 
-## 💻 Skills: 
+## 💻 Technical Skills: 
       📌 Python 
       📌 Excel 
       📌 SQL
