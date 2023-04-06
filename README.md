@@ -15,15 +15,39 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 
 ## 💻 Technical Skills: 
-      📌 Python 
-      📌 Excel 
-      📌 SQL
-      📌 Tableau
-      📌 Power BI
-      📌 Statistics
-      📌 Machine Learning
-
+      📌 Python for Data Science: 
+      
+          1. NumPy              2. Pandas         3. Matplotlib     4. Seaborn       5. Scikit Learn
+            
+      📌 Excel: 
+      
+          1. Pivot Table         2. Charts         3. Macros         4. VBA           5. Functions like VLookup, HLookup, XLookup
+                
+      📌 Database Management (SQL):
+      
+          1. Window Functions     2. CTE           3. Temporary Tables
+     
+      📌 Visualization Tools:
+      
+          1. Tableau               2. Power BI      3. Exel            4. Python (Seaborn/Matplotlib)
+      
+      📌 Statistics:
+      
+          1. Descriptive Statistics   2. Inferential Statistics   3. Hypothesis Testing
+      
+      📌 Machine Learning:
+      
+          1. Supervised Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
+          2. Unsupervised Learning Algorithm: Clustering
 
 ## 🌐 Socials:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MehakKhurana17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehak2000/)  
+
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehakKhurana17)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehakKhurana17&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/MehakKhurana17)  
