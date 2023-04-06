@@ -15,23 +15,30 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 
 ## 💻 Technical Skills: 
-### Python for Data Science: 
-     1. NumPy         2. Pandas         3. Matplotlib       4. Seaborn        5. Scikit Learn
-            
-### Excel: 
-     1. Pivot Table         2. Charts         3. Macros         4. VBA           5. Functions like VLookup, HLookup, XLookup
-                
-### Database Management (SQL):
-     1. Window Functions        2. CTE           3. Temporary Tables
+
+Python for Data Science: 
+
+    1. NumPy         2. Pandas         3. Matplotlib       4. Seaborn        5. Scikit Learn          
      
-### Visualization Tools:
+Excel: 
+
+    1. Pivot Table         2. Charts         3. Macros         4. VBA           5. Functions like VLookup, HLookup, XLookup
+                
+Database Management (SQL):
+
+    1. Window Functions        2. CTE           3. Temporary Tables      4. Joins and Union       5. Subqueries
+     
+Visualization Tools:
+
      1. Tableau               2. Power BI         3. Exel            4. Python (Seaborn/Matplotlib)
       
-### Statistics:
+Statistics:
+
      1. Descriptive Statistics      2. Inferential Statistics            3. Hypothesis Testing
       
-### Machine Learning:
-     1. Supervised Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
+Machine Learning:
+
+     1. Supervised Learning Algorithm: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
      2. Unsupervised Learning Algorithm: Clustering
 
 ## 🌐 Socials:
