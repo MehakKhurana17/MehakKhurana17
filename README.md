@@ -39,7 +39,7 @@ Statistics:
 Machine Learning:
 
      1. Supervised Learning Algorithm: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
-     2. Unsupervised Learning Algorithm: Clustering
+     2. Unsupervised Learning Algorithm: Clustering, Dimensionality Reduction Techniques
 
 ## 🌐 Socials:
 
