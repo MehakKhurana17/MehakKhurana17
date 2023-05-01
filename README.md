@@ -10,7 +10,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 ## 🔗 About Me:
 
-- 🌱 I’m currently learning and exploring various some deep learning algorithms and trying to build some reliable models.
+- 🌱 I’m currently learning and exploring deep learning algorithms and trying to build some reliable models.
 - 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
 
 
