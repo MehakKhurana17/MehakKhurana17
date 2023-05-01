@@ -10,7 +10,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 ## 🔗 About Me:
 
-- 🌱 I’m currently learning and exploring various Machine learning algorithms and trying to build some reliable models.
+- 🌱 I’m currently learning and exploring various some deep learning algorithms and trying to build some reliable models.
 - 🌱 I am looking to collaborate on Data Analysis and Machine Learning projects.
 
 
@@ -18,7 +18,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 Python for Data Science: 
 
-    1. NumPy         2. Pandas         3. Matplotlib       4. Seaborn        5. Scikit Learn          
+    1. NumPy        2. Pandas        3. Matplotlib      4. Seaborn       5. Scikit Learn      6. Natural Language Toolkit(NLTK)    
      
 Excel: 
 
