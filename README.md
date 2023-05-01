@@ -30,7 +30,7 @@ Database Management (SQL):
      
 Visualization Tools:
 
-     1. Tableau               2. Power BI         3. Exel            4. Python (Seaborn/Matplotlib)
+     1. Tableau               2. Power BI              3. Exel         
       
 Statistics:
 
