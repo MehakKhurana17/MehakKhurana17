@@ -18,7 +18,7 @@ I am Mehak and I have a passion for exploring and analyzing data to identify pat
 
 Python for Data Science: 
 
-    1. NumPy        2. Pandas        3. Matplotlib      4. Seaborn       5. Scikit Learn      6. Natural Language Toolkit(NLTK)    
+    1. NumPy      2. Pandas       3. Matplotlib      4. Seaborn      5. Scikit Learn      6. Natural Language Toolkit(NLTK)    
      
 Excel: 
 
