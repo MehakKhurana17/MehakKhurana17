@@ -1,5 +1,5 @@
 # Mehak Khurana
-### Data Scientist Trainee 
+### Data Scientist
 
 ![Data Scientist Trainee ](https://github.com/MehakKhurana17/MehakKhurana17/blob/main/Image%20banner.jpg)
 
